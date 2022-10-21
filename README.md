@@ -1,5 +1,5 @@
-Student: Agape Alex-Gabriel
+Student: Adomniței Marian
 
 Info IFR an II
 
-Proiect ce contine materiale pentru materia: "Tehnici avansate de programare"
+
